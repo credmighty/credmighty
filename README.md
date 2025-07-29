@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @credmighty
+<!--- 👋 Hi, I’m @credmighty
 - 👀 I’m interested in learning, guidance to Software Engineering.
 - 🌱 I’m currently growing under ALX SE
 - 💞️ I’m looking to collaborate on app development
@@ -44,12 +44,12 @@ software development.</p>
 
 </h4>
 
-![alxcert](NderituALXcertificate.png)
+![alxcert](Abdullahi-ALX_certificate.png)
 
 <h4>
 
 
-<p align="center">Completed The ALX Career Essentials Course</p>
+<p align="center">Completed The ALX Professional Foundations</p>
 
 ![alxcert](careeressentials.png)
 
@@ -59,9 +59,9 @@ software development.</p>
 
 | Repository | Description |
 | --- | --- |
-| [AlX-low_level_programming](https://github.com/dennisnderitu254/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-| [Alx-high_level_programming](https://github.com/dennisnderitu254/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
+| [AlX-low_level_programming](https://github.com/credmighty/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [Alx-system_engineering-devops](https://github.com/credmighty/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [Alx-high_level_programming](https://github.com/credmighty/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
 
 <h3 align="center"><br>Tools & Technologies</h3>
 
@@ -74,26 +74,29 @@ software development.</p>
 
 <h3 align="center"><br>Major projects worked on in order:</h3>
 
-| Project name | Description |
-| --- | --- |
+<!-- to be add to the major project after completion
 |[Printf](https://github.com/codebyrugi/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/dennisnderitu254/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
-|[Monty](https://github.com/dennisnderitu254/monty) | Stacks, Queues - LIFO, FIFO |
-|[Sorting Algorithms](https://github.com/dennisnderitu254/sorting_algorithms) | Sorting Algorithms Implementation in C|
-|[RSA-Factoring-Challenge](https://github.com/dennisnderitu254/RSA-Factoring-Challenge) |RSA Factoring Challenge|
-|[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
+|[AirBnB Clone](https://github.com/credmighty/AirBnB_clone) | AirBnB Clone Command Line Interface |
 |[Binary Trees](https://github.com/dennisnderitu254/binary_trees) | Binary Trees |
 |[Search Algorithms](https://github.com/dennisnderitu254/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
+-->
+
+| Project name | Description |
+| --- | --- |
+|[Monty](https://github.com/credmighty/monty) | Stacks, Queues - LIFO, FIFO |
+|[Sorting Algorithms](https://github.com/credmighty/sorting_algorithms) | Sorting Algorithms Implementation in C|
+|[RSA-Factoring-Challenge](https://github.com/credmighty/RSA-Factoring-Challenge) |RSA Factoring Challenge|
 
 <br />
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
- <a href="https://github.com/dennisnderitu254"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
- <a href="https://www.linkedin.com/in/dennis-kinyanjui-a35a9510b/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
- <a href="https://www.instagram.com/dennisnnderitu_/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
- <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+ <a href="https://github.com/credmighty"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
+ <a href="https://www.linkedin.com/in/abdullahi-abdulrofiu/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+ <a href="https://www.instagram.com/arkens_official?igsh=ZXp0eHR0OHlraXZ4">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
+ <a href="https://www.twitter.com/toyllahi/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
 <!--
