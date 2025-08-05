@@ -51,7 +51,7 @@ software development.</p>
 
 <p align="center">Completed The ALX Professional Foundations</p>
 
-![alxcert](careeressentials.png)
+![alxcert](89-professional-foundations-certificate-abdullahi-abdulrofiu.png)
 
 
 </h4>
