@@ -8,9 +8,12 @@
 credmighty/credmighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 👋 Hi, I'm Abdullahi Abdulrofiu  
+*Backend Developer | Problem Solver | ALX ProDev Backend Learner*
 
-<h1 align='center'>"Dev Abdullahi Here"</h1>
-<p align="center">
+---
+
+<p>
 Dynamic and motivated software engineer with a solid background in data structures, algorithms, and
 web development technologies, including Python and JavaScript (ES6). Demonstrated expertise lies
 in architecting efficient and robust backend components for web applications. Proficient in diverse
@@ -24,7 +27,11 @@ languages and frameworks, with a strong focus on building efficient and user-fri
 solutions. I'm Dedicated to staying updated with emerging technologies and best practices in
 software development.</p>
 
-<h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Backend+Engineer+in+training+at+ALX;Building+apps+that+solve;real+problems" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+
+---
+
 <h3 align="center"><a href="mailto:abdulrofiuabdullahi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='https://drive.google.com/file/d/1ztDqyL3jqC7wYnnsY9lsmsxcfxvrlEaG/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <!--<a href=''><img src="https://img.shields.io/badge/ALX Transcript-green?style=for-the-badge"></a>-->
@@ -63,7 +70,15 @@ software development.</p>
 | [Alx-system_engineering-devops](https://github.com/credmighty/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 | [Alx-high_level_programming](https://github.com/credmighty/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
 
-<h3 align="center"><br>Tools & Technologies</h3>
+<h3 align="center">
+## 🛠️ Skills & Technologies</h3>
+
+| **Languages** | **Frameworks & Tools** | **Databases** | **Other** |
+|---------------|-----------------------|---------------|-----------|
+| Python        | Flask, Django         | PostgreSQL    | Git, Docker |
+| C             | Node.js, Express      | MongoDB       | AWS, CI/CD  |
+| JavaScript    | RESTful APIs          | MySQL         | Linux, Bash |
+| Java | | | |
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -89,6 +104,25 @@ software development.</p>
 |[RSA-Factoring-Challenge](https://github.com/credmighty/RSA-Factoring-Challenge) |RSA Factoring Challenge|
 
 <br />
+
+---
+
+## 📚 My Learning Journey  
+As part of the ALX ProDev Backend program, I’m committed to:  
+- 🧠 Staying curious and continuously learning cutting-edge technologies.  
+- 🤝 Supporting my peers by sharing knowledge and collaborating on projects.  
+- 💻 Writing clean, scalable, and impactful code to solve real-world problems.  
+
+This journey is about more than just code—it’s about building with purpose and creating solutions that last.
+
+---
+
+## 🎯 Goals  
+- Develop an impactful application that addresses a real-world problem, such as [e.g., sustainable agriculture or healthcare access].  
+- Launch a tech startup that leverages backend expertise to deliver innovative solutions.  
+- Contribute to open-source projects to give back to the developer community.  
+
+---
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
@@ -139,5 +173,8 @@ software development.</p>
 </p>
 
 ---
+
+<p align="center">*“Code is not just about solving problems—it’s about creating value that transforms lives.”*
+<br>*"Code is more than syntax – it’s the bridge between ideas and impact."*</p>
 
 <!--
