@@ -63,6 +63,9 @@ software development.</p>
 
 </h4>
 
+---
+
+<h3><br>Major Repositories:</h3>
 
 | Repository | Description |
 | --- | --- |
@@ -70,8 +73,9 @@ software development.</p>
 | [Alx-system_engineering-devops](https://github.com/credmighty/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 | [Alx-high_level_programming](https://github.com/credmighty/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
 
-<h3 align="center">
-## 🛠️ Skills & Technologies</h3>
+---
+
+## 🛠️ Skills & Technologies
 
 | **Languages** | **Frameworks & Tools** | **Databases** | **Other** |
 |---------------|-----------------------|---------------|-----------|
@@ -87,7 +91,9 @@ software development.</p>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
-<h3 align="center"><br>Major projects worked on in order:</h3>
+---
+
+<h3><br>Major projects worked on:</h3>
 
 <!-- to be add to the major project after completion
 |[Printf](https://github.com/codebyrugi/printf)| The program is designed to mimic the printf function in C.|
